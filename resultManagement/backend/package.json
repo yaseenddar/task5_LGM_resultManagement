@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-ripts start",
   "dev": "vite",
   "build": "vite build"
   },
